@@ -1,1 +1,4 @@
-# Concrete_Strength_Predictor_Neural_Network
+## Objectives  
+* Download and clean the data set
+* Build a neural network
+* Train and test the network   
